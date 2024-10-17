@@ -1,10 +1,10 @@
 ---
-title: 'Experience'
+title: ''
 date: 2024-10-17
 type: landing
 
 design:
-  spacing: '2rem'
+  spacing: '3rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: tetons.svg
+          filename: tetons_cover.svg
           filters:
             brightness: 0.25
           size: cover
@@ -53,7 +53,7 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
-  - block: collection
+  - block: 'github.jstrand894.testblock'
     id: talks
     content:
       title: Paper Presentations
@@ -61,8 +61,9 @@ sections:
         folders:
           - talks
         featured_only: false
-      custon-count: 6
+      custom_count: 60
     design:
       view: article-grid
-      columns: 3
+      columns: 4
 ---
+

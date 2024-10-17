@@ -51,27 +51,36 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  - block: 'github.jstrand894.testblock'
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: '<a href="/talks">Recent & Upcoming Talks</a>'
       filters:
         folders:
           - talks
         featured_only: true
+      custom_count: 4
     design:
       view: article-grid
-      columns: 2
+      columns: 3
+  - block: collection
+    id: events
+    content:
+      title: Events
+      filters:
+        folders:
+          - events
+        featured_only: false
   # - block: collection
   #   id: news
   #   content:

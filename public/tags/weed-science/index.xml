@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weed Science | Jackson Strand Website</title>
+    <link>http://localhost:1313/tags/weed-science/</link>
+      <atom:link href="http://localhost:1313/tags/weed-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weed Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Weed Science</title>
+      <link>http://localhost:1313/tags/weed-science/</link>
+    </image>
+    
+    <item>
+      <title>W2193 Poisonous Plants Impact, Ecology, and Management</title>
+      <link>http://localhost:1313/talks/locoweed/</link>
+      <pubDate>Thu, 28 Apr 2022 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/locoweed/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTvMjl1FaVfGfkaK3nTsQv32Ho6SCmAcSXQVgdWINazjUzawF8st_RKX8YEmv9n8g/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;640&#34; height=&#34;389&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

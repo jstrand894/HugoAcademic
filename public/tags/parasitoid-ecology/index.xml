@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parasitoid Ecology | Jackson Strand Website</title>
+    <link>http://localhost:1313/tags/parasitoid-ecology/</link>
+      <atom:link href="http://localhost:1313/tags/parasitoid-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parasitoid Ecology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Parasitoid Ecology</title>
+      <link>http://localhost:1313/tags/parasitoid-ecology/</link>
+    </image>
+    
+    <item>
+      <title>Agroecological Importance of Smooth Brome in Managing Wheat Stem Sawfly (Hymenoptera: Cephidae) via Associated Braconid Parasitoids</title>
+      <link>http://localhost:1313/publication/preprint/agroecological/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/agroecological/</guid>
+      <description>&lt;p&gt;This paper is part of my 
+ on the biological control of the wheat stem sawfly.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+&lt;p&gt;suppressing WSS populations and limiting associated damage. Smooth brome grass (&lt;i&gt;Bromus inermis&lt;/i&gt; Leyss.) serves as a potential trap reservoir for WSS when grown in areas surrounding wheat (&lt;i&gt;Triticum aestivum&lt;/i&gt; L.) fields in Montana. Its unique biology allows it to support high WSS infestation while promoting significant larval mortality throughout the growing season. Late-season WSS survivors can then serve as hosts for WSS parasitoids. Our study investigated smooth brome as a host refuge for WSS parasitoids. We measured WSS larval infestation and survival rate inside smooth brome grown within WSS-inclusion cages, finding a maximum infestation of 66.5% and an end-of-year WSS survival of 5.7%. Additionally, we collected stems from sites in central and north-central Montana to measure the WSS infestation and parasitoid prevalence in wheat and adjacent smooth brome. WSS infestation was high in both Big Sandy (64.5% smooth brome, 65.7% adjacent wheat) and Moccasin, MT (50.6%, 38.6%). Year-end WSS larval mortality was 43.6% greater in smooth brome compared to adjacent wheat at both field sites, but both hosted similar numbers of WSS parasitoids. This research underscores the importance of smooth brome in providing a sustainable host refuge for WSS parasitoids and highlights its significant role in supporting the economics of wheat cultivation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

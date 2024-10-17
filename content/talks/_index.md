@@ -11,17 +11,17 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: collection
+  - block: 'github.jstrand894.testblock'
     id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
           - talks
-        limit: 0
+      custom_count: 30
     design:
       view: article-grid
-      columns: 3
+      columns: 4
 # View.
 view: citation
 

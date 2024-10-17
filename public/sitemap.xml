@@ -10,11 +10,23 @@
     <lastmod>2024-11-11T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
+    <loc>http://localhost:1313/publication/preprint/agroecological-copy/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/preprint/agroecological/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/agroecology/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/article/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/biological-control/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -31,6 +43,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/wheat-stem-sawfly/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -56,6 +72,22 @@
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/events/2024-symposium/</loc>
+    <lastmod>2024-04-18T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/events/</loc>
+    <lastmod>2024-04-18T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/gso/</loc>
+    <lastmod>2024-04-18T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/research-symposium/</loc>
+    <lastmod>2024-04-18T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/talks/march-maddness/</loc>
@@ -138,19 +170,11 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/biological-control/</loc>
-    <lastmod>2022-11-14T12:18:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/tags/chemical-ecology/</loc>
     <lastmod>2022-11-14T12:18:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/talks/esa22/</loc>
-    <lastmod>2022-11-14T12:18:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/wheat-stem-sawfly/</loc>
     <lastmod>2022-11-14T12:18:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -160,6 +184,18 @@
   </url><url>
     <loc>http://localhost:1313/talks/gso-colloquium-2022/</loc>
     <lastmod>2022-04-28T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/talks/locoweed/</loc>
+    <lastmod>2022-04-28T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/msu-extension/</loc>
+    <lastmod>2021-11-21T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/events/ipm-workshop/</loc>
+    <lastmod>2021-11-21T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/talks/esa21/</loc>
