@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Jackson Strand
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Jackson
+last_name: Strand
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +13,122 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Montana State University
+    url: https://montana.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jstrand894@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/jacksonstrand
+  - icon: brands/github
+    url: https://github.com/jstrand894
+  - icon: brands/instagram
+    url: https://www.instagram.com/jstrand894/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biological Control
+  - Chemical Ecology
+  # - Other stuff
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Entomology
+    institution: Montana State University
+    date_start: 2021-05-01
+    date_end: 2024-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My project focused on understanding the importance of the smooth brome (_Bromus inermis_) in providing seasonal refuge for parasitoids in controlling the wheat stem sawfly (_Cephus cinctus_) in Montana.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Biology
+    institution: University of Minnesota
+    date_start: 2013-09-01
+    date_end: 2017-05-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Minor: marine biology
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Regulatory IS Specialist
+    company_name: Pace Analytical on-site at 3M
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_logo: pace
+    date_start: 2017-12-01
+    date_end: 2021-05-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provided digital support between 3M employees and the 3M Chemical Data Management System (CDMS).
+      - Integrated, tested, and supported user and data interface between CDMS and SAP.
+      - Generated, designed, and communicated unique, detailed reports of material information using SQL, Microsoft Excel, and SAP.
+  - position: Field Mosquito Technician
+    company_name: Metropolitan Mosquito Control District
+    company_url: 'https://mmcd.org'
+    company_logo: ''
+    date_start: 2017-05-01
+    date_end: 2017-09-01
+    summary: |
+      Responsibilities include:
+      - Worked on a team to collect and analyze mosquito larvae samples from wetland areas across the St. Paul metropolitan area.
+      - Independently maintained low adult mosquito populations in Oakdale, MN by surveying and treating both adults and larvae.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  - position: Barn Maintance Crew
+    company_name: Leatherdale Equine Center
+    company_url: 'https://vetmed.umn.edu/equine'
+    date_start: 2015-01-01
+    date_end: 2017-05-01
+    summary: |
+      - Maintained healthy conditions for equine patients at the University of Minnesota Horse Veterinary Center and Large Animal Hospital.
+      - Trained and managed new members of the crew.
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: President's Prize - 2nd Place
+    url: https://www.entsoc.org/events/annual-meeting/student-competition/winners/2023
+    date: '2023-11-13'
+    awarder: Entomological Society of America
+    icon: ESA2
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - Won 2nd place at the Entomological Society of America's 2023 annual meeting held in National Harbor, MD for my talk titled "_Using VOCs to assess the relationship between wheat stem sawfly, parasitoids, and smooth brome_". 
+  - title: Student Scholar Travel Award ($500)
+    url: 'https://ag.montana.edu'
+    date: '2023-09-01'
+    awarder: Montana State University - College of Agriculture
+    icon: COA_flame
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      - Used the awarded funds to attend the Entomological Society of America's 2023 annual meeting in National Harbor, MD.
+      
+  - title: 1st Place Speaker
+    url: ''
+    icon: GSO_LOGO
+    date: '2023-04-01'
+    awarder: LRES Graduate Student Organization
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Won 1st place for my talk titled "_The Importance of Smooth Brome and Parasitoids in Wheat Stem Sawfly Biocontrol_" at the 14th annual Land Resources and Environmental Sciences Graduate Student Organization Student Research Colloquium. 
+
+  - title: Montana Grain Foundation Scholarship ($2,500)
+    url: 'https://www.mgga.org'
+    icon: mgga
+    date: 2022-04-01
+    awarder: Montana Grain Growers Association
+
+  - title: Professional Advancement Grant ($500)
+    url: 'https://www.montana.edu/gradschool'
+    icon: COA_flame
+    date: 2021-11-01
+    awarder: Montana State University Graduate School
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jackson Strand is a PhD candidate at Montana State University in the Peterson CBRA lab. 

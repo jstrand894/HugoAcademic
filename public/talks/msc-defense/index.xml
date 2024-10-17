@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackson Strand MSc Defense | Jackson Strand Website</title>
+    <link>http://localhost:1313/talks/msc-defense/</link>
+      <atom:link href="http://localhost:1313/talks/msc-defense/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jackson Strand MSc Defense</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 12:18:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/talks/msc-defense/featured.png</url>
+      <title>Jackson Strand MSc Defense</title>
+      <link>http://localhost:1313/talks/msc-defense/</link>
+    </image>
+    
+  </channel>
+</rss>
