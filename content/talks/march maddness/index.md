@@ -33,7 +33,7 @@ all_day: true
 authors:
   - admin
 
-tags: []
+tags: [AGROECOLOGY]
 
 # Is this a featured talk? (true/false)
 featured: false

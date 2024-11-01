@@ -30,7 +30,7 @@ publishDate: '2024-10-17T00:00:00Z'
 authors:
   - admin
 
-tags: []
+tags: [Chemical Ecology, ESA]
 
 # Is this a featured talk? (true/false)
 featured: true

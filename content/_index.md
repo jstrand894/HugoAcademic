@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /Users/jacksonstrand/Library/CloudStorage/OneDrive-MontanaStateUniversity/Personal/CV/JRS_CV_11-1-24.pdf
     design:
       css_class: dark
       background:

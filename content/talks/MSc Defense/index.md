@@ -52,7 +52,7 @@ publishDate: '2024-10-16T00:00:00Z'
 authors:
   - admin
 
-tags: []
+tags: [Montana State University]
 
 # Is this a featured talk? (true/false)
 featured: true

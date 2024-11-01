@@ -39,7 +39,7 @@ interests:
   # - Other stuff
 
 education:
-  - area: MSc Entomology
+  - area: MS - Entomology
     institution: Montana State University
     date_start: 2021-05-01
     date_end: 2024-08-01
@@ -48,7 +48,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Biology
+  - area: BS - Biology
     institution: University of Minnesota
     date_start: 2013-09-01
     date_end: 2017-05-01

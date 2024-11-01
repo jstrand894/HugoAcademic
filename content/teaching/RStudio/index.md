@@ -1,6 +1,6 @@
 ---
 title: One Code to Rule Them All
-summary: Learn the basics of RStudio, a powerful statistical software
+summary: Learn the basics of RStudio, a powerful and FREE statistical computing software. Brought to you by the one and only Jared Adam.
 date: 2024-10-15
 type: docs
 math: false
@@ -10,7 +10,7 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-Jared Adam created this website for teaching R Studio. It is specifically designed for researchers in natural science fields. 
+[Jared Adam](https://www.linkedin.com/in/jared-adam-24b107241/) created this website for teaching R Studio. It is specifically designed for researchers in natural science fields. 
 
 [One Code to Rule Them All](https://jared-adam.github.io/R-Tutorial-for-Tooker-Lab/)  
 
