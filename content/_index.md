@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /Users/jacksonstrand/Library/CloudStorage/OneDrive-MontanaStateUniversity/Personal/CV/JRS_CV_11-1-24.pdf
+        url: uploads/JRS_CV_11-1-24.pdf
     design:
       css_class: dark
       background:
@@ -50,7 +50,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   # - block: collection
   #   content:
   #     title: Recent Publications

@@ -131,4 +131,4 @@ awards:
 
 ## About Me
 
-Jackson Strand is a PhD candidate at Montana State University in the Peterson CBRA lab. 
+I am a PhD candidate at Montana State University studying the biological control of yellow and Dalmatian Toadflax. In my free time I enjoy trail running, mountain biking, and downhill skiing. 
