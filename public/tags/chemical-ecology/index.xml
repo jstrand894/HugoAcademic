@@ -5,12 +5,26 @@
     <link>http://localhost:1313/tags/chemical-ecology/</link>
       <atom:link href="http://localhost:1313/tags/chemical-ecology/index.xml" rel="self" type="application/rss+xml" />
     <description>Chemical Ecology</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 12:18:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.svg</url>
       <title>Chemical Ecology</title>
       <link>http://localhost:1313/tags/chemical-ecology/</link>
     </image>
+    
+    <item>
+      <title>Sensory and behavioral responses of braconid parasitoids to
+changes in volatile emissions induced by wheat stem sawfly
+(Hymenoptera: Cephidae) larval feeding in winter wheat
+and smooth brome 
+</title>
+      <link>http://localhost:1313/publication/preprint/electrophysiology/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/electrophysiology/</guid>
+      <description>&lt;p&gt;This paper is part of my 
+ on the biological control of the wheat stem sawfly.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Entomology 2022</title>
@@ -31,6 +45,21 @@
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>W2193 Poisonous Plants Impact, Ecology, and Management</title>
+      <link>http://localhost:1313/talks/locoweed/</link>
+      <pubDate>Thu, 28 Apr 2022 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/locoweed/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTvMjl1FaVfGfkaK3nTsQv32Ho6SCmAcSXQVgdWINazjUzawF8st_RKX8YEmv9n8g/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;640&#34; height=&#34;389&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
   </channel>
